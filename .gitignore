@@ -13,3 +13,5 @@ trained_models/*.keras
 trained_models/*.h5
 datasets/
 .DS_Store
+build/
+*.spec
